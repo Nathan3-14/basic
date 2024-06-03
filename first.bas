@@ -1,0 +1,7 @@
+1 PRINT "HELLO"
+2 LET A = 0
+3 WHILE A < 5
+    4 PRINT "SUP"
+    5 A = A + 1
+6 WEND
+7 PRINT "BYE"
